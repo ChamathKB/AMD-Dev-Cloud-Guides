@@ -61,3 +61,7 @@ Follow these steps to set up your vLLM environment:
 For more detailed information on vLLM and AMD GPUs, refer to the following AMD ROCm blog post:
 
   * [Inferencing and serving with vLLM on AMD GPUs](https://rocm.blogs.amd.com/artificial-intelligence/vllm/README.html)
+
+### Acknowledgment
+
+These notebooks were inspired by and modified from guides originally created by AMD and vLLM. All credit for the work belongs to the original authors.
