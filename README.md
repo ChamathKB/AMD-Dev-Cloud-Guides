@@ -43,3 +43,7 @@ Follow these steps to set up your vLLM environment:
     ```bash
     nvtop
     ```
+
+## Acknowledgment
+
+AMD and DigitalOcean for providing the cloud development environment ❤️.
