@@ -4,7 +4,7 @@ Guides on AMD AI optimized developer cloud usecases.
 
 ## Getting Started
 
-Follow these steps to set up your vLLM environment:
+Follow these steps to set up your environment:
 
 1.  **Create Droplet:**
     Provision a new droplet on the AMD Dev Cloud with bare-metal ubuntu 24.04 LTS server or the pre-built Docker image. AMD provides optimized Docker images for MI300X GPUs.
@@ -19,7 +19,7 @@ Follow these steps to set up your vLLM environment:
     You can access the Jupyter Notebook interface by opening a web browser and navigating to `http://<Your-Droplet-IP>:8888`.
 
 5.  **Access Docker Container Shell:**
-    To get a shell inside the vLLM Docker container, execute the following command in your droplet's terminal:
+    To get a shell inside the Docker container, execute the following command in your droplet's terminal:
 
     ```bash
     docker exec -it rocm /bin/bash
@@ -46,4 +46,4 @@ Follow these steps to set up your vLLM environment:
 
 ## Acknowledgment
 
-AMD and DigitalOcean for providing the cloud development environment ❤️.
+AMD for providing the cloud development environment with free credits and High-end GPUs ❤️. Also DigitalOcean for the easy to use cloud platform 😇️.
